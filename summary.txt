@@ -1,0 +1,189 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         498
+	Longest value:         7 characters
+	Most common values:    None (20158x)
+	                       K000376 (462x)
+	                       S001195 (341x)
+	                       V000129 (328x)
+	                       H001053 (306x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         628
+	Longest value:         35 characters
+	Most common values:    GOVERNMENT CONTRIBUTIONS (7222x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (2777x)
+	                       CLERK OF THE HOUSE (663x)
+	                       STATIONERY (518x)
+	                       COMMITTEE ON ENERGY & COMMERCE (406x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (103087x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         103
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (82970x)
+	                       GOVERNMENT CONTRIBUTIONS (7223x)
+	                       GENERAL EXPENDITURES (5804x)
+	                       SALARIES  OFFICERS & EMPLOYEES (1603x)
+	                       ADMIN AND OPS (1277x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         12
+	Longest value:         30 characters
+	Most common values:    PERSONNEL COMPENSATION (21081x)
+	                       RENT  COMMUNICATION  UTILITIES (20588x)
+	                       SUPPLIES AND MATERIALS (19483x)
+	                       TRAVEL (19226x)
+	                       PERSONNEL BENEFITS (7274x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  True (excluded from calculations)
+	Unique values:         79
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    None (21093x)
+	                       2017-03-16 (4593x)
+	                       2017-02-27 (3816x)
+	                       2017-03-27 (3233x)
+	                       2017-03-31 (3066x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         4
+	Longest value:         2 characters
+	Most common values:    AP (68517x)
+	                       None (21090x)
+	                       GL (13076x)
+	                       AR (404x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         43957
+	Longest value:         14 characters
+	Most common values:    None (21093x)
+	                       EMS0065250 (2098x)
+	                       EMS0066929 (2067x)
+	                       EMS0066096 (2065x)
+	                       900647 (1745x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         18824
+	Longest value:         40 characters
+	Most common values:    None (13076x)
+	                       CITIBANK GOV CARD SERVICE (5618x)
+	                       BOISE CASCADE COMPANY (1900x)
+	                       DEPT OF EDUC VIA FEDLOAN SVC (1829x)
+	                       UNITED STATES POSTAL SERVICE (1469x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         681
+	Smallest value:        2006-10-01
+	Largest value:         2018-12-29
+	Most common values:    2017-01-01 (18505x)
+	                       2017-01-03 (11743x)
+	                       2017-02-01 (9085x)
+	                       2017-03-01 (5396x)
+	                       2016-12-01 (5014x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         950
+	Smallest value:        2009-06-25
+	Largest value:         2021-12-31
+	Most common values:    2017-03-31 (15471x)
+	                       2017-02-28 (11481x)
+	                       2017-01-02 (10732x)
+	                       2017-01-31 (9749x)
+	                       2016-12-31 (3924x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2963
+	Longest value:         51 characters
+	Most common values:    STUDENT LOANS (6697x)
+	                       OFFICE SUPPLIES (OUTSIDE) (6277x)
+	                       PRIVATE AUTO MILEAGE (5804x)
+	                       TELECOMSRV/EQ/TOLL CHARGE (4452x)
+	                       COMMERCIAL TRANSPORTATION (4005x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         37113
+	Smallest value:        -1588495.28
+	Largest value:         6422338.85
+	Sum:                   297071622.01
+	Mean:                  2881.7564
+	Median:                222.63
+	StDev:                 47546.751556
+	Most common values:    833 (2125x)
+	                       500 (561x)
+	                       1860 (540x)
+	                       350 (464x)
+	                       250 (429x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         13
+	Smallest value:        2009
+	Largest value:         2021
+	Sum:                   207906507
+	Mean:                  2016.806261
+	Median:                2017
+	StDev:                 0.452062
+	Most common values:    2017 (80856x)
+	                       2016 (20693x)
+	                       2018 (1141x)
+	                       2015 (185x)
+	                       2019 (136x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         18824
+	Longest value:         40 characters
+	Most common values:    None (13076x)
+	                       CITIBANK GOV CARD SERVICE (5618x)
+	                       BOISE CASCADE COMPANY (1900x)
+	                       DEPT OF EDUC VIA FEDLOAN SVC (1829x)
+	                       UNITED STATES POSTAL SERVICE (1469x)
+
+Row count: 103087
