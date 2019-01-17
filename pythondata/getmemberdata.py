@@ -1,3 +1,4 @@
+# Sam and Nurlan
 # Read superherees.json
 import json
 with open('superheroes.json', 'r') as f:
